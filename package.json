@@ -1,0 +1,26 @@
+{
+  "name": "homework10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braddahis/homework10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braddahis/homework10/issues"
+  },
+  "homepage": "https://github.com/braddahis/homework10#readme",
+  "dependencies": {
+    "console-table-printer": "^2.11.1",
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.1.0"
+  }
+}
